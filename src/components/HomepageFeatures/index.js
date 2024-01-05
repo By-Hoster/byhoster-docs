@@ -1,32 +1,35 @@
-import React from 'react';
 import clsx from 'clsx';
+import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Gestion des revenues',
-    Svg: require('@site/static/img/payment.svg').default,
+    title: 'Easy to Use',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Acceptez les paiements de votre clientèle via les passerelles de paiements pré-installées. Gérez des <b>Devis</b>, <b>Taxes</b>,  <b>Livraison de service/gestion de service</b>, <b>Factures</b> de vos clients.
+        Docusaurus was designed from the ground up to be easily installed and
+        used to get your website up and running quickly.
       </>
     ),
   },
   {
-    title: 'Installation & Configuration',
-    Svg: require('@site/static/img/fast.svg').default,
+    title: 'Focus on What Matters',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Installez et configurez votre espace client aussi rapidement que possible. Reliez votre Panel externe à <b>CLIENTXCMS</b> puis créez des <b>offres</b> en les ajoutants dans un <b>groupe</b> et <b>vendez-les</b>.
+        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
+        ahead and move your docs into the <code>docs</code> directory.
       </>
     ),
   },
   {
-    title: 'Personnalisation de l\'espace client',
-    Svg: require('@site/static/img/custom.svg').default,
+    title: 'Powered by React',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-      Faite de votre <b>espace client</b> un <b>espace privilégiés</b> pour vos clients. Il est important que vos clients se repèrent grâce à votre <b>Logo</b>, <b>Favicon</b>, <b>Thème</b> ou <b>Couleur primaire</b>
+        Extend or customize your website layout by reusing React. Docusaurus can
+        be extended while reusing the same header and footer.
       </>
     ),
   },
@@ -39,7 +42,7 @@ function Feature({Svg, title, description}) {
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+        <Heading as="h3">{title}</Heading>
         <p>{description}</p>
       </div>
     </div>

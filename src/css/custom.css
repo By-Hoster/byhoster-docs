@@ -3,13 +3,10 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
-@import "https://fonts.googleapis.com/css?family=Nunito:300,400,600,700&display=swap";
-body {
-  font-family:nunito,sans-serif!important;
-}
+
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2f55d4;
+  --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -17,26 +14,19 @@ body {
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
+/* For readability concerns, you should choose a darker palette in dark mode with better contrast. */
 [data-theme='dark'] {
-  --ifm-color-primary: #828eb7;
-  --ifm-color-primary-dark: #80b6aa;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #3498db; /* Bleu */
+  --ifm-color-primary-dark: #2980b9; /* Bleu plus sombre */
+  --ifm-color-primary-darker: #1f6690; /* Bleu encore plus sombre */
+  --ifm-color-primary-darkest: #154567; /* Le bleu le plus sombre */
+  --ifm-color-primary-light: #3e8ccc; /* Bleu plus clair */
+  --ifm-color-primary-lighter: #4994d0; /* Bleu encore plus clair */
+  --ifm-color-primary-lightest: #5fa2d6; /* La teinte la plus claire de bleu */
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.1);
-  display: block;
-  margin: 0 calc(-1 * var(--ifm-pre-padding));
-  padding: 0 var(--ifm-pre-padding);
-}
-
-[data-theme='dark'] .docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.3);
-}

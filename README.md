@@ -1,25 +1,41 @@
-# ByDocs
-Documentation officielle de By-Hoster.net
+# Website
 
-## Comment ajouter un tutoriel ?
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Interessé pour aider la communauté a créer une riche base de connaissances ? Aidez-nous a rédiger des tutoriels pour les utilisateurs de notre documentation dès maintenant !
+### Installation
 
-- Choisissez une catégorie adaptée a votre tutoriel dans le répertoire "docs"
-- Créez un fichier en .md avec un titre court (exemple : *Comment installer Pterodactyl sur un VPS* = **installer-pterodactyl.md**)
-- En tête du fichier markdown, mettez ce code :
-  ```markdown
-    ---
-    sidebar_position: 6
-    ---
-    # Nom du tutoriel
-  ```
+```
+$ yarn
+```
 
-  Remplacez bien sûr "``Nom du tutoriel``" par le titre de votre tutoriel (exemple : # Comment installer Pterodactyl sur un VPS)
-- Rédigez votre tutoriel, et n'hésitez pas a mettre des liens vers By-Hoster, vous pourrez être récompensé 😀
-- Le code est en format markdown, [voici un tutoriel sur les bases du format markdown](https://documentation-snds.health-data-hub.fr/snds/contribuer/guide_contribution/tutoriel_markdown.html#tableaux), mais vous pouvez utiliser des éditeurs en ligne pour vous aider, tel que [StackEdit](https://stackedit.io/app#).
+### Local Development
 
-> **ATTENTION ⚠️**
-> En markdown, les espaces entre les # sont importants, comme toute la syntaxe qui se joue au caractère près !
+```
+$ yarn start
+```
 
-- Bonne rédaction et bon travail ! 👍
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+### Build
+
+```
+$ yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

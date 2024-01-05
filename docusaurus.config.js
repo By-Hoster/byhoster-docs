@@ -27,7 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/By-Hoster/byhoster-docs/tree/main/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -76,7 +76,7 @@ export default {
           ]
         },
         {
-          "title": "Community",
+          "title": "Communauté",
           "items": [
             {
               "label": "Site web",
@@ -93,7 +93,7 @@ export default {
           ]
         },
         {
-          "title": "More",
+          "title": "Plus",
           "items": [
             {
               "label": "GitHub",

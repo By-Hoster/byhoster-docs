@@ -5,7 +5,7 @@ Documentation officielle de By-Hoster.net
 
 ### Interessé pour aider la communauté a créer une riche base de connaissances ? Aidez-nous a rédiger des tutoriels pour les utilisateurs de notre documentation dès maintenant !
 
-- Choisissez une catégorie adaptée a votre tutoriel dans le répertoire "docs"
+- Choisissez une catégorie adaptée à votre tutoriel dans le répertoire "docs"
 - Créez un fichier en .md avec un titre court (exemple : *Comment installer Pterodactyl sur un VPS* = **installer-pterodactyl.md**)
 - En tête du fichier markdown, mettez ce code :
   ```markdown

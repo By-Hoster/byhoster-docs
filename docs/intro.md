@@ -24,7 +24,7 @@ By-Hoster a été créé en 2020 par Planetium Network pour vous offrir des tari
 
 ## Contactez-nous
 
-Si vous avez des questions supplémentaires ou si vous avez besoin d'une assistance personnalisée, n'hésitez pas à nous contacter à contact@by-hoster.net
+Si vous avez des questions supplémentaires ou si vous avez besoin d'une assistance personnalisée, n'hésitez pas à nous contacter à [contact@by-hoster.com](mailto:contact@by-hoster.com)
 
 Nous sommes ravis de vous accompagner dans votre expérience avec notre documentation et de vous aider à réussir en ligne!
 

@@ -17,7 +17,7 @@ Documentation officielle de By-Hoster.net
 
   Remplacez bien sûr "``Nom du tutoriel``" par le titre de votre tutoriel (exemple : # Comment installer Pterodactyl sur un VPS)
 - Rédigez votre tutoriel, et n'hésitez pas a mettre des liens vers By-Hoster, vous pourrez être récompensé 😀
-- Le code est en format markdown, [voici un tutoriel sur les bases du format markdown](https://documentation-snds.health-data-hub.fr/snds/contribuer/guide_contribution/tutoriel_markdown.html#tableaux), mais vous pouvez utiliser des éditeurs en ligne pour vous aider, tel que [StackEdit](https://stackedit.io/app#).
+- Le code est en format markdown, [voici un tutoriel sur les bases du format markdown](https://documentation-snds.health-data-hub.fr/snds/contribuer/guide_contribution/tutoriel_markdown.html), mais vous pouvez utiliser des éditeurs en ligne pour vous aider, tel que [StackEdit](https://stackedit.io/app#).
 
 > **ATTENTION ⚠️**
 > En markdown, les espaces entre les # sont importants, comme toute la syntaxe qui se joue au caractère près !

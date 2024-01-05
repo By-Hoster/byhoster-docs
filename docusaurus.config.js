@@ -5,12 +5,12 @@
  */
 export default {
   "title": "By'Docs",
-  "tagline": "La Documentation Officielle de l'hébergeur By-Hoster",
+  "tagline": "La documentation officielle de l'hébergeur By-Hoster",
   "favicon": "img/logo.png",
   "url": "https://docs.by-hoster.net",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "byhoster",
+  "organizationName": "By-Hoster",
+  "projectName": "byhoster-docs",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -79,16 +79,16 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "Site web",
+              "href": "https://by-hoster.net"
             },
             {
               "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "href": "https://discord.gg/nDPTR4qKTV"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/By_Hoster_"
             }
           ]
         },
@@ -97,7 +97,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/By-Hoster/byhoster-docs"
             }
           ]
         }

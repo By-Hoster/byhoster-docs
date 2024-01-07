@@ -33,7 +33,7 @@ Sur By-Hoster, vous avez 2 possibilités :
         - votresite.byh.fr
         - votresite.by-h.fr
         - votresite.by-h.cloud   
-    *Ou si vous souhaitez bénéficer de votre propre nom de domaine de type : votresite.fr, votresite.com, votresite.net, etc. ; nous pouvons vous en vendre à prix fixe :* [Nous contacter](mailto:contact@by-hoster.com?subject=Achat nom de domaine)
+    *Ou si vous souhaitez bénéficer de votre propre nom de domaine de type : votresite.fr, votresite.com, votresite.net, etc. ; nous pouvons vous en vendre à prix fixe :* mailto:contact@by-hoster.com?subject=Achat nom de domaine
 
 ### Les bases de ByWeb
 ByWeb est notre panel de gestion de site web accessible à l'adresse : https://web.byh.fr

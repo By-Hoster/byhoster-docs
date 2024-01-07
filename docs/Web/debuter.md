@@ -32,7 +32,7 @@ Sur By-Hoster, vous avez 2 possibilités :
     Ce n'est pas un soucis chez By-Hoster, nous fournissons gratuitement des sous-domaines de type :
         - votresite.byh.fr
         - votresite.by-h.fr
-        - votresite.by-h.cloud          
+        - votresite.by-h.cloud   
     *Ou si vous souhaitez bénéficer de votre propre nom de domaine de type : votresite.fr, votresite.com, votresite.net, etc. ; nous pouvons vous en vendre à prix fixe :* [Nous contacter](mailto:contact@by-hoster.com?subject=Achat nom de domaine)
 
 ### Les bases de ByWeb

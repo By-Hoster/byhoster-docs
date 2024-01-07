@@ -105,7 +105,7 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: 'https://discord.gg/byhoster',
+                href: 'https://discord.gg/nDPTR4qKTV',
               },
               {
                 label: 'Twitter',
@@ -122,7 +122,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/By-Hoster/byhoster-docs',
               },
             ],
           },

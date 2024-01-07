@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Documentation Complète',
+    Svg: require('@site/static/img/byhoster_complete_documentation.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Chez By-Hoster, nous fournissons une documentation complète pour faciliter la gestion de votre hébergement web, couvrant tous les aspects nécessaires pour vous aider efficacement.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Tutoriels Efficaces',
+    Svg: require('@site/static/img/byhoster_effective_tutorials.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Nos tutoriels sont conçus pour être rapides et efficaces, vous permettant de comprendre et de mettre en œuvre des solutions sans perdre de temps.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Support Client Prioritaire',
+    Svg: require('@site/static/img/byhoster_priority_support.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        L'aide à nos clients est notre priorité. Notre équipe d'assistance dédiée est toujours prête à répondre à vos questions et à résoudre vos problèmes rapidement.
       </>
     ),
   },

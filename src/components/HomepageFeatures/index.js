@@ -5,28 +5,28 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Documentation Complète',
-    Svg: require('@site/static/img/byhoster_complete_documentation.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Chez By-Hoster, nous fournissons une documentation complète pour faciliter la gestion de votre hébergement web, couvrant tous les aspects nécessaires pour vous aider efficacement.
+        Chez By-Hoster, une documentation détaillée est à votre disposition pour faciliter la gestion de votre hébergement web et vous accompagner à chaque étape.
       </>
     ),
   },
   {
-    title: 'Tutoriels Efficaces',
-    Svg: require('@site/static/img/byhoster_effective_tutorials.svg').default,
+    title: 'Tutoriels Efficaces et Rapides',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Nos tutoriels sont conçus pour être rapides et efficaces, vous permettant de comprendre et de mettre en œuvre des solutions sans perdre de temps.
+        Découvrez nos tutoriels conçus pour être à la fois efficaces et rapides, vous permettant de maîtriser rapidement les aspects techniques de votre hébergement.
       </>
     ),
   },
   {
     title: 'Support Client Prioritaire',
-    Svg: require('@site/static/img/byhoster_priority_support.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        L'aide à nos clients est notre priorité. Notre équipe d'assistance dédiée est toujours prête à répondre à vos questions et à résoudre vos problèmes rapidement.
+        Notre équipe est dédiée à votre réussite. Bénéficiez d'un support client réactif et prioritaire pour toutes vos questions et préoccupations.
       </>
     ),
   },

@@ -41,8 +41,8 @@ Auquel cas, vous avez aussi dans la gestion de votre service sur l'espace client
 
 Une fois connecté sur ByWeb, pour gérer votre site rendez-vous dans l'onglet "**Sites Web & Domaines**" du menu de gauche et sélectionné votre site.
 
-Vous devriez aperçevoir une page qui ressemble à celle-ci :
+Vous devriez apercevoir une page qui ressemble à celle-ci :
 ![Aperçu Panel ByWeb | Interface - Gestion de site](https://media.discordapp.net/attachments/693203267009904680/1193652376993808404/image.png)
 
-Une fois le domaine bien configuré et votre offre livré, vous devez lorsque vous allez sur votre site, aperçevoir la page par défaut de ByWeb.
+Une fois le domaine bien configuré et votre offre livré, vous devez lorsque vous allez sur votre site, apercevoir la page par défaut de ByWeb.
 Vous êtes prêt à utiliser votre site ✅ !

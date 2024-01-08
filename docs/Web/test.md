@@ -26,18 +26,3 @@ function Clock(props) {
   );
 }
 ```
-
-```html live
-<!DOCTYPE html>
-<html lang="fr">
-    <head>
-        <meta charset="UTF-8" />
-        <title>Mon premier site statique avec ReactJS</title>
-        <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
-        <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
-    </head>
-    <body>
-        <h1>Bonjour !</h1>
-        <Clock />
-    </body>
-```

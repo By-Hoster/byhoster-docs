@@ -4,9 +4,7 @@ sidebar_position: 1
 
 # Bien héberger son site web
 
-## Commander chez By-Hoster
-
-### Obtenir son hébergement web
+## Obtenir son hébergement web
 Bienvenue chez **By-Hoster** ! Si vous recherchez une solution simple et fiable pour héberger votre site web, avec une garantie d'accès continu 24/7, vous êtes au parfait endroit. Nous offrons une expérience d'hébergement web de premier plan, caractérisée par :
 
 - **Performance Élevée** : Nos serveurs sont équipés de **RAM DDR4** et de **SSD NVMe**, vous garantissant une rapidité et une efficacité exceptionnelles.
@@ -15,7 +13,7 @@ Bienvenue chez **By-Hoster** ! Si vous recherchez une solution simple et fiable 
 
 Découvrez nos offres compétitives sur notre boutique en ligne : [Offres Hébergement Web](https://my.by-hoster.net/store/web). Rejoignez-nous et vivez l'expérience d'un hébergement web de qualité supérieure adapté à vos besoins spécifiques.
 
-### Configurer son nom de domaine
+## Configurer son nom de domaine
 Un nom de domaine est une adresse internet facile à mémoriser, utilisée pour accéder à des sites web. Il s'agit d'une suite de caractères alphanumériques qui remplace une adresse IP numérique, beaucoup plus complexe à retenir pour un humain. Le nom de domaine fonctionne comme une sorte de raccourci qui pointe vers l'adresse IP d'un serveur hébergeant un site web, facilitant ainsi son accès. Par exemple, au lieu de taper une série de chiffres comme 192.168.1.1, on peut simplement écrire "exemple.com". Ce système rend la navigation sur Internet beaucoup plus intuitive et conviviale.
 
 Sur By-Hoster, vous avez 2 possibilités :
@@ -35,7 +33,7 @@ Sur By-Hoster, vous avez 2 possibilités :
         - votresite.by-h.cloud   
     *Ou si vous souhaitez bénéficer de votre propre nom de domaine de type : votresite.fr, votresite.com, votresite.net, etc. ; nous pouvons vous en vendre à prix fixe :* contact@by-hoster.com
 
-### Les bases de ByWeb
+## Les bases de ByWeb
 ByWeb est notre panel de gestion de site web accessible à l'adresse : https://web.byh.fr
 
 Si vous avez déjà un service d'hébergement web By-Hoster, vous avez dù recevoir par email vos identifiants de connexion *(Vérifiez vos SPAMS)*.
@@ -47,4 +45,4 @@ Vous devriez aperçevoir une page qui ressemble à celle-ci :
 ![Aperçu Panel ByWeb | Interface - Gestion de site](https://media.discordapp.net/attachments/693203267009904680/1193652376993808404/image.png)
 
 Une fois le domaine bien configuré et votre offre livré, vous devez lorsque vous allez sur votre site, aperçevoir la page par défaut de ByWeb.
-Vous êtes prêt à utiliser votre site !
+Vous êtes prêt à utiliser votre site ✅ !

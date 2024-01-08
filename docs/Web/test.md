@@ -26,3 +26,6 @@ function Clock(props) {
   );
 }
 ```
+
+:::warning test
+:::danger test

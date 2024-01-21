@@ -7,7 +7,7 @@ sidebar_position: 1
 ## À quoi sert le lien d'affiliation By-Hoster ?
 Un lien d'affiliation (ou lien de parrainage) permet à n'importe quel utilisateur de compte de créer un lien et de le partager avec d'autres personnes. Si ces personnes commandent un service de By-Hoster, créent un compte, ou simplement cliquent sur votre lien, vous pourrez gagner de l'argent (sous forme de crédit By-Hoster) ou retirer vos gains en argent réel à partir d'un montant minimal de retrait.
 
-## Les chiffres :
+## Les chiffres
 - Montant minimum de retrait : **15,00 €**
 - Gain sur chaque commande : **5 %**
 

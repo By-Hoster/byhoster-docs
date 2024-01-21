@@ -17,7 +17,7 @@ Le lien d'affiliation ressemble à : `https://my.by-hoster.net/aff/xxxxxxxxxxxxx
 1) Rendez-vous sur [l'espace client By-Hoster](https://my.by-hoster.net/client) et connectez-vous à votre compte, ou inscrivez-vous
 2) Dans le menu de gauche, cliquez sur l'onglet "**AFFILIATION**" ou [cliquez ici](https://my.by-hoster.net/client/affiliate) :   
    ![Espace client - Menu affiliation](https://media.discordapp.net/attachments/693203267009904680/1198732943850492004/image.png?ex=65bffa0d&is=65ad850d&hm=a59b4b51c36e37f1d5f347a84dc71d678c20b26da7f5d53c20a19c7c8cdbcf67&=&format=webp)
-3) Cliquez sur le bouton bleu : "**Rejoindre le programme d'affiliation**":
+3) Cliquez sur le bouton bleu : "**Rejoindre le programme affiliation**":
    ![Espace client - Bouton rejoindre affiliation](https://media.discordapp.net/attachments/693203267009904680/1198734345725280286/image.png?ex=65bffb5b&is=65ad865b&hm=e0c617a0e24665903a118bebf94456a9856be9ccc3a89e6454b6d8e986151894&=&format=webp)
 
 ## Bravo ! 👏

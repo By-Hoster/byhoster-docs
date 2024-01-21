@@ -36,7 +36,7 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "https://byh.fr/logos/fusée-texte-logo-blanc.png",
     "colorMode": {
       "defaultMode": "dark",
       "disableSwitch": true,

@@ -10,17 +10,21 @@ Bienvenue sur le site de tutoriels dédié à nos clients. Ici, vous trouverez d
 
 By-Hoster a été créé en 2020 par Planetium Network pour vous offrir des tarifs abordables et des services d'hébergement qualitatif afin de vous aider à réaliser vos plus grands projets.
 
-## Comment utiliser ce site
-
-1. **Navigation simple :** Utilisez la barre de navigation en haut pour trouver les tutoriels spécifiques à votre service.
-
-2. **Catégories :** Explorez les catégories pour découvrir une variété de tutoriels adaptés à vos besoins.
-
 ## Nos Services
+Notre boutique proposant des hébergements à prix réduit : https://my.by-hoster.net/store
 
 - Hébergement Web
-- Hébergement de Jeux
-- Serveurs VPS
+    - Site Web : https://my.by-hoster.net/store/web
+    - Revendeur Web : https://my.by-hoster.net/store/plesk-resell
+- Hébergement Jeux : https://my.by-hoster.net/jeux
+    - FiveM / GTARP : https://my.by-hoster.net/store/gtarp
+    - Minecraft : https://my.by-hoster.net/store/minecraft (Vanilla, Java, Bedrock, PocketMine, BungeeCord, Forge, Paper, Spigot, Fabric, Sponge, etc...)
+    - Garry's Mod : https://my.by-hoster.net/store/gmod
+    - Rust : https://my.by-hoster.net/store/rust
+    - NodeJS : https://my.by-hoster.net/store/nodejs
+    - Python : https://my.by-hoster.net/store/python
+- Hébergement PteroBox : https://my.by-hoster.net/store/pterobox
+- Serveur VPS : https://my.by-hoster.net/store/vps (Debian / Ubuntu + possibilité sur demande d'autres systèmes d'exploitations comme Windows, etc.)
 
 ## Contactez-nous
 

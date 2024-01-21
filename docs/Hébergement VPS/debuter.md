@@ -8,6 +8,10 @@ Bienvenue sur votre nouveau VPS (Virtual Private Server) ! Ce guide vous aidera 
 
 ## Accéder à votre VPS
 
+### Obtenir un VPS
+Vous n'avez pas encore de VPS ? Vous souhaitez en obtenir un de qualité à moindre coûts ?
+Choisissez By-Hoster ! Nous proposons des offres VPS disponibles sur notre boutique : https://my.by-hoster.net/store/vps
+
 ### Connexion SSH
 
 Utilisez SSH pour vous connecter à votre VPS. Remplacez `utilisateur` et `ip` par vos informations.

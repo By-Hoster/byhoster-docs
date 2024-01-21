@@ -11,7 +11,7 @@ Bienvenue sur le site de tutoriels dédié à nos clients. Ici, vous trouverez d
 By-Hoster a été créé en 2020 par Planetium Network pour vous offrir des tarifs abordables et des services d'hébergement qualitatif afin de vous aider à réaliser vos plus grands projets.
 
 ## Nos Services
-Notre boutique proposant des hébergements à prix réduit : https://my.by-hoster.net/store
+Notre boutique proposent des offres d'hébergement fiable à prix réduit : https://my.by-hoster.net/store
 
 - [Hébergement Web](https://my.by-hoster.net/store/plesk)
     - [Site Web](https://my.by-hoster.net/store/web)

@@ -28,7 +28,7 @@ Notre boutique proposent des offres d'hébergement fiable à prix réduit : http
 
 ## Contactez-nous
 
-Si vous avez des questions supplémentaires ou si vous avez besoin d'une assistance personnalisée, n'hésitez pas à nous contacter à [contact@by-hoster.com](mailto:contact@by-hoster.com?subject=Demande de contact)
+Si vous avez des questions supplémentaires ou si vous avez besoin d'une assistance personnalisée, n'hésitez pas à nous contacter à [contact@by-hoster.com](mailto:contact@by-hoster.com)
 
 Nous sommes ravis de vous accompagner dans votre expérience avec notre documentation et de vous aider à réussir en ligne!
 

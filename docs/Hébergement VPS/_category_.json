@@ -1,6 +1,6 @@
 {
-  "label": "VPS",
-  "position": 3,
+  "label": "Hébergement VPS",
+  "position": 5,
   "link": {
     "type": "generated-index",
     "description": "Vous trouverez ici toute l'aide relatif à nos VPS."

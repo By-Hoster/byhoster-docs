@@ -20,11 +20,11 @@ Sur By-Hoster, vous avez 2 possibilités :
 - Soit vous possédez déjà un nom de domaine :
     Vous avez juste a créé une redirection via votre serveur DNS (exemple: [Cloudflare](https://cloudflare.com))
     Pour ce faire :
-    1) Accéder au panel de gestion de zones DNS de votre nom de domaine
-    2) Supprimer (si elles existent) les redirections **www** et **@ / votredomaine.com**
-    3) Créer une nouvelle redirection de type CNAME sans proxy (DNS Uniquement) pour "``@``" (ou votre domaine racine) pointant vers l'adresse : ``web.byh.fr``, faites pareil pour **www.**.
-    4) Cliquez sur "Enregistrer" / "Sauvegarder" pour enregistrer ces nouvelles redirections
-    5) Le délai de propagation des zones peut durer jusqu'à 5 minutes, veuillez patienter que votre domaine redirige vers ByWeb
+      1. Accéder au panel de gestion de zones DNS de votre nom de domaine
+      2. Supprimer (si elles existent) les redirections **www** et **@ / votredomaine.com**
+      3. Créer une nouvelle redirection de type CNAME sans proxy (DNS Uniquement) pour "``@``" (ou votre domaine racine) pointant vers l'adresse : ``web.byh.fr``, faites pareil pour **www.**.
+      4. Cliquez sur "Enregistrer" / "Sauvegarder" pour enregistrer ces nouvelles redirections
+      5. Le délai de propagation des zones peut durer jusqu'à 5 minutes, veuillez patienter que votre domaine redirige vers ByWeb
 
 - Si vous n'avez pas encore de nom de domaine :
     Ce n'est pas un soucis chez By-Hoster, nous fournissons gratuitement des sous-domaines de type :

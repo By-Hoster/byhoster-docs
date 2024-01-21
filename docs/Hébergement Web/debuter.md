@@ -5,7 +5,7 @@ sidebar_position: 1
 # Bien héberger son site web
 
 ## Obtenir son hébergement web
-Bienvenue chez **By-Hoster** ! Si vous recherchez une solution simple et fiable pour héberger votre site web, avec une garantie d'accès continu 24/7, vous êtes au parfait endroit. Nous offrons une expérience d'hébergement web de premier plan, caractérisée par :
+Bienvenue chez **By-Hoster** ! Si vous recherchez une solution simple et fiable pour héberger votre site web, avec une garantie d'accès continu 24/7, vous êtes au parfait endroit. Nous offrons une expérience d'hébergement web de haute qualité à nos clients, caractérisée par :
 
 - **Performance Élevée** : Nos serveurs sont équipés de **RAM DDR4** et de **SSD NVMe**, vous garantissant une rapidité et une efficacité exceptionnelles.
 - **Gestion Facile** : Bénéficiez d'un panel intuitif pour une gestion complète de votre site. Installez des CMS tels que **Wordpress** en toute simplicité, avec un simple clic !
@@ -14,7 +14,7 @@ Bienvenue chez **By-Hoster** ! Si vous recherchez une solution simple et fiable 
 Découvrez nos offres compétitives sur notre boutique en ligne : [Offres Hébergement Web](https://my.by-hoster.net/store/web). Rejoignez-nous et vivez l'expérience d'un hébergement web de qualité supérieure adapté à vos besoins spécifiques.
 
 ## Configurer son nom de domaine
-Un nom de domaine est une adresse internet facile à mémoriser, utilisée pour accéder à des sites web. Il s'agit d'une suite de caractères alphanumériques qui remplace une adresse IP numérique, beaucoup plus complexe à retenir pour un humain. Le nom de domaine fonctionne comme une sorte de raccourci qui pointe vers l'adresse IP d'un serveur hébergeant un site web, facilitant ainsi son accès. Par exemple, au lieu de taper une série de chiffres comme ``192.168.1.1``, on peut simplement écrire "exemple.com". Ce système rend la navigation sur Internet beaucoup plus intuitive et conviviale.
+Un nom de domaine est une adresse internet facile à mémoriser, utilisée pour accéder à des sites web. Il s'agit d'une suite de caractères alphanumériques qui remplace une adresse IP numérique, beaucoup plus complexe à retenir pour un humain. Le nom de domaine fonctionne comme une sorte de raccourci qui pointe vers l'adresse IP d'un serveur hébergeant un site web, facilitant ainsi son accès. Par exemple, au lieu de taper une série de chiffres comme ``192.168.1.1``, on peut simplement écrire "``exemple.com``". Ce système rend la navigation sur Internet beaucoup plus intuitive et conviviale.
 
 Sur By-Hoster, vous avez 2 possibilités :
 - Soit vous possédez déjà un nom de domaine :

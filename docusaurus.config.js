@@ -87,9 +87,13 @@ export default {
               "href": "https://discord.gg/nDPTR4qKTV"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/By_Hoster_"
+              "label": "X",
+              "href": "https://twitter.com/By_Hoster"
             }
+            {
+              "label": "YouTube",
+              "href": "https://youtube.com/@By-Hoster"
+            },
           ]
         },
         {

@@ -89,11 +89,11 @@ export default {
             {
               "label": "X",
               "href": "https://twitter.com/By_Hoster"
-            }
+            },
             {
               "label": "YouTube",
               "href": "https://youtube.com/@By-Hoster"
-            },
+            }
           ]
         },
         {

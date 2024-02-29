@@ -1,17 +1,11 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+freezmod:
+  name: Tom Vinsonneau
+  title: Dirigeant de By-Hoster
+  url: mailto:t.vinsonneau@by-hoster.com
+  image_url: https://avatars.githubusercontent.com/u/69022745?v=4
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+vextaa:
+  name: Valentin Maillard
+  title: Dirigeant de By-Hoster
+  url: mailto:v.maillard@by-hoster.com
+  image_url: https://byh.fr/logos/fusée-blanc-seulement.png

@@ -1,0 +1,164 @@
+---
+sidebar_position: 1
+---
+
+# Bien débuter avec votre serveur de jeu sur un panel Pterodactyl chez By-Hoster 🚀
+
+Bienvenue sur votre nouveau serveur de jeu sur un panel Pterodactyl, se tutoriel va vous permettre de bien demarrer et bien connaitre votre nouvel interface de travail 
+
+## Accéder à votre Panel
+
+### Procéder à l'achat d'un serveur/bot
+Vous n'avez pas encore de serveur/bot ? Vous souhaitez en obtenir un de qualité à moindre coûts ?
+Choisissez By-Hoster ! Nous proposons des offres de serveurs (Minecraft, FiveM, ect..) et de bot discord (nodejs et en python) disponibles sur notre boutique : https://my.by-hoster.net/store/jeux
+
+#### Connexion Panel
+
+Utiliser le lien suivant pour acceder à votre espace sur le panel !
+https://ptero.by-hoster.net
+Et entrez vos identifiants que vous avez mis plus tôt lors de l'achat de votre offre ou de la création de votre compte
+
+## Une fois arriver sur le Panel
+
+### Le Dashboard
+
+Dans un premier lorsque vous arrivez sur votre panel vous aurez accès à un dashboard comme celui-ci ! 
+
+
+![dashboard](https://github.com/Shanksslebg/docs-byhoster/blob/main/H%C3%A9bergementGame/img/dashboard.png?raw=true)
+
+Vous appuyerai sur le serveur concerner auquel vous souhaitez accèder puis vous arriverez sur votre console de jeu qui devrai ressembler à cela :
+
+![Console](https://github.com/Shanksslebg/docs-byhoster/blob/main/H%C3%A9bergementGame/img/console.png?raw=true)
+
+
+ Dessus vous pourrez démarrer votre serveur/bot, le redémarrer, l'arrêter ou même y faire un arrêt d'urgence en cas de nécessité. Et toujours dans la même intérface vous aurez accès au données les plus importantes de votre machine dont : 
+
+        - Le pourcentage d'utilisation du CPU
+        - L'utilisation de la Ram et de l'éspace disk
+        - L'ip de votre serveur pour effectuer une connexion à votre serveur (inutile en cas d'utilisation d'un bot)
+
+### Accéder au gestionnaire des fichiers
+En regardant à la gauche du panel vous pouvez observer que vous avez accès à d'autres catégorieS dont le <b>gestionnaire de fichiers</b>, un élement central pour le développement de votre serveur, c'est l'endroit ou vous mettrez en place et configurerez vos plugin, vos addons ou vos fichiez, vous pouvez aussi y acceder via une application externe tel que filezilla ça vous permettra d'avoir des transfert de fichiers plus rapide et simplifier  > https://filezilla-project.org
+
+
+![FileZilla](https://github.com/Shanksslebg/docs-byhoster/blob/main/H%C3%A9bergementGame/img/filezilla.png?raw=true)
+
+Pour vous connecter et accéder à votre gestionnaire de fichier inserer l'hote et le nom d'utilisateur que vous retrouverez dans l'onglet paramètre du panel : 
+
+![Parametre](https://github.com/Shanksslebg/docs-byhoster/blob/main/H%C3%A9bergementGame/img/parametre1.png?raw=true)
+
+<b>Par exemple dans mon cas il s'agira de :</b>
+
+> Hote : sftp://nodex.by-h.fr:2024
+> Nom d'utilisateur : ----------330.fbe3d3b5
+> Mot de passe : [Le même mot de passe que vous avez pour votre connexion au panel]
+
+### La création de Base de données 
+
+#### A quoi sa sert ?
+
+Une base de données est extrêmement utile pour un serveur de jeux comme Minecraft, Five M, Garry's Mod, etc., pour plusieurs raisons :
+
+<b>Stockage des données des joueurs :</b> Une base de données peut stocker les données des joueurs, telles que leurs profils, leurs inventaires, leurs progrès dans le jeu, leurs paramètres, etc. Cela permet de sauvegarder les progrès des joueurs et de les restaurer en cas de besoin.
+
+<b>Gestion des utilisateurs et des autorisations :</b> Les bases de données peuvent être utilisées pour gérer les utilisateurs et leurs autorisations sur le serveur. Par exemple, elles peuvent stocker les informations d'identification des joueurs, leurs rôles (administrateur, modérateur, joueur), et les autorisations qui leur sont accordées (accès à certaines zones, capacité à effectuer certaines actions, etc.).
+
+#### Comment crée une base de données ?
+
+Pour relier une base de données à votre panel pour un serveur de jeux, vous pouvez suivre ces étapes :
+
+<b>1. Configurer la base de données :</b>
+  
+- Assurez-vous que votre base de données est correctement configurée et fonctionnelle. Cela implique de créer une base de données avec les autorisations appropriées pour que le serveur puisse y accéder.
+
+<b>2. Ajouter une base de données dans votre serveur :</b>
+  
+- Dans les paramètres du serveur, recherchez l'option permettant de configurer une base de données. Elle doit être appelée "Base de données". Suivez les instructions pour ajouter une nouvelle base de données.
+- Vous devrez fournir des informations telles que le nom de la base de données, le nom d'utilisateur, le mot de passe et l'hôte de la base de données. Ces informations devraient correspondre à celles que vous avez configurées dans votre base de données auparavant.
+
+![DataBase](https://github.com/Shanksslebg/docs-byhoster/blob/main/H%C3%A9bergementGame/img/base%20de%20donn%C3%A9es.png?raw=true)
+
+<b>3. Configurer le serveur pour utiliser la base de données :</b>
+
+- Une fois la base de données ajoutée, vous devez configurer votre serveur pour l'utiliser. Cela peut impliquer de modifier les fichiers de configuration du serveur pour inclure les informations de connexion à la base de données.
+- Assurez-vous que les paramètres de connexion de la base de données dans les fichiers de configuration du serveur correspondent à ceux que vous avez configurés dans le panel.
+  
+<b>4. Tester la connexion :</b>
+
+- Après avoir configuré la base de données dans votre panel et dans les fichiers de configuration du serveur, assurez-vous de tester la connexion pour vous assurer que tout fonctionne correctement. Vous pouvez le faire en essayant de vous connecter au serveur de jeu et en vérifiant s'il peut accéder et utiliser la base de données comme prévu.
+  
+### Les planifications
+
+Les <b>"schedules"</b> dans un panel comme le votre peuvent être extrêmement utiles pour la gestion et l'optimisation de votre serveur de jeux. Voici quelques-unes des utilisations principales des schedules sur un panel comme le votre pour les serveurs de jeux comme Minecraft, Five M, Garry's Mod, etc. et même les bot discord :
+
+![Shedules](https://github.com/Shanksslebg/docs-byhoster/blob/main/H%C3%A9bergementGame/img/shedules.png?raw=true)
+
+<b>Redémarrage automatique :</b> Les schedules permettent de planifier des périodes où le serveur est actif et d'autres où il est inactif. Cela permet d'optimiser l'utilisation des ressources du serveur et éviter des bug lorsqu'il reste allumer sur une longue durée sans redémarrage.
+
+<b>Planification des sauvegardes :</b> Les sauvegardes régulières sont essentielles pour garantir la sécurité de vos fichiers. Les schedules peuvent être utilisés pour planifier automatiquement des sauvegardes pour éviter la pertes de vos fichiers et de vos data
+
+
+### Les sous utilisateurs
+
+Si vous êtes dans un cas ou vous n'êtes pas seul sur le développement de votre serveur, vous pouvez demander en ticket discord la création d'un utilisateur ptérodactyl en nous fournissant un Nom, Prenom, Mail et un Mot de passe.
+Une fois l'utilisateur crée vous pouvez l'ajouter de vous même dans la catégorie <B>"Utilisateurs"</b> et lui donner les permissions que vous souhaitez lui attribuer 
+
+![Sous Utilsateurs](https://github.com/Shanksslebg/docs-byhoster/blob/main/H%C3%A9bergementGame/img/sousutilisateurs.png?raw=true)
+
+### Les Sauvegardes (Backups)
+
+<b> Protection des données des joueurs :</b> Les sauvegardes permettent de protéger les données des joueurs, y compris leurs profils, leurs inventaires, leurs constructions, etc. En cas de problème du serveur ou de perte de données, les sauvegardes peuvent être utilisées pour restaurer l'état précédent du jeu et éviter ainsi la perte de progrès des joueurs. (les backup se font pas automatiquement à moins que vous avez fais une planification auparavant)
+
+<b> Sécurité et récupération après une catastrophe :</b> En cas d'incident, tel qu'un piratage, une panne du serveur ou une erreur de configuration, les sauvegardes permettent de restaurer rapidement le serveur dans un état fonctionnel que vous avez eu auparavant. Cela aide à minimiser les temps d'arrêt et à limiter les pertes de données.
+
+<b> Facilitation des tests et des mises à jour :</b> Avant d'appliquer des mises à jour majeures ou des modifications importantes sur le serveur, il est recommandé de créer une sauvegarde/backup pour pouvoir revenir à un état stable en cas de problème. Les sauvegardes peuvent être utilisées pour tester de nouvelles fonctionnalités sans risquer de perdre l'intégrité des données des joueurs.
+
+<b> Prévention de la perte de contenu personnalisé :</b> Si vous utilisez des mods, des plugins ou d'autres contenus personnalisés sur votre serveur de jeu, les sauvegardes garantissent que ces ajouts ne seront pas perdus en cas de problème. Vous pouvez restaurer une sauvegarde précédente pour récupérer tout contenu qui aurait été supprimé ou autre.
+
+### La séction "Démarrage"
+
+La séction démarrage est en général utiliser lors du développpement de votre serveur ou lors des maintenance, il s'agit de l'endroit ou vous décider de la manière dont vous souhaitez démarrer votre serveur (Quel map utiliser, Quel version, ect...) voici un exemple sur un serveur Garry's Mod : 
+
+![Démarrage](https://github.com/Shanksslebg/docs-byhoster/blob/main/H%C3%A9bergementGame/img/demarrage.png?raw=true)
+
+Dessus vous pouvez voir que nous retrouvons de différentes variables, tel que la map, le steam account token, le workshop ID, le gamemode voulu, le nombre de slot, le tickrate ainsi la demande de si vous souhaitez activer le Lua Refresh (chose déconseiller)
+
+### La section Paramètre
+
+Cette section est assez simple, il y'a 4 section différentes qui ont de différentes utilités 
+
+1. <b>Vos Identifiants SFTP :</b> ils servent à acceder à votre gestionnaires de fichiers en utilisant une application externe comme se que nous avons vu plutôt dans la documentation
+2. <b>Informations du serveur :</b> Vous pouvez effectuer les informations de votre serveur sur le panel, dont le nom ainsi que sa déscription
+3. <b>Informations Debug :</b> Pour savoir sur quel node votre serveur est installée ici, nous avons le node04 et aussi connaitre l'identifiant du serveur
+4. <b> Réinstallation du serveur : </b> Si vous souhaitez faire une vérification du serveur car vous avez un doute sur le fais qu'il manque un fichier de base vous pouvez faire la vérification en appuyant sur le boutton, mais si vous souhaitez faire une réinstallation complète du serveur et le remettre à zero vous devez d'un premier temps éffectuer une suppression total de tout vos fichiers et une fois fais vous devez appuyer sur le boutton de réinstallation
+
+![Paramètre2](https://github.com/Shanksslebg/docs-byhoster/blob/main/H%C3%A9bergementGame/img/parametre2.png?raw=true)
+
+
+### Activités (logs)
+
+Cette partie de votre panel sert simplement à abtenir une logs complète du panel et de savoir, qui à fais quoi et à quel moment. Vous pouvez savoir si vous ou un sous utilisateur à modifier un fichier et lequel éxactement, si il a redemarrer le serveur, ect...
+
+![Activités1](https://github.com/Shanksslebg/docs-byhoster/blob/main/H%C3%A9bergementGame/img/activit%C3%A91.png?raw=true)
+
+![Activités2](https://github.com/Shanksslebg/docs-byhoster/blob/main/H%C3%A9bergementGame/img/activit%C3%A92.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

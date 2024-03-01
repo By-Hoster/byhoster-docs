@@ -108,7 +108,7 @@ Les **"planifications"** dans un panel comme le vôtre peuvent être utiles pour
 
 ### Sous-utilisateurs (Subusers)
 Si vous travaillez en équipe sur le développement de votre serveur, vous pouvez créer des sous-utilisateurs avec des permissions spécifiques. Cela se fait via la catégorie "Utilisateurs" du panel.
-Pour cela, cliquez sur le bouton "Nouvel utilisateur", un formulaire devrait s'ouvrir :
+Pour cela, cliquez sur le bouton "Nouvel utilisateur", un formulaire devrait s'ouvrir :   
 ![Subusers](https://media.discordapp.net/attachments/1212137634722484316/1212925145862111252/23dCs51.png?ex=65f39b91&is=65e12691&hm=d63f95af290ea766e2939d99295c287e956e6c1ac2ead149615f3c5328162292&=&format=webp&quality=lossless&width=755&height=671)
 
 **USER EMAIL** = l'email du compte sous-utilisateur
@@ -136,14 +136,14 @@ Les sauvegardes sont essentielles pour protéger les données de votre serveur c
 La section "Réseau" permet de gérer, de créer, et de supprimer des allocations (ports).
 Cela est nécessaire pour par exemple certains plugins sur Minecraft tel que DynMap qui nécessite un différent port que celui primaire.
 
-__Exemple :__
+__Exemple :__   
 ![Allocations](https://media.discordapp.net/attachments/1212812376148156426/1212933860619456572/image.png?ex=65f3a3af&is=65e12eaf&hm=1b0cd969da58ad4824ae0fe2d54282d1cca1b3ba77af207fbdbf1c43ff8729e3&=&format=webp)
 
 
 ### Démarrage (Startup)
 La section "Démarrage" vous permet de configurer la manière dont votre serveur démarre, incluant par exemple le choix de la map (carte), la version du jeu, et d'autres paramètres importants.
 
-__Exemple :__
+__Exemple :__   
 ![Startup](https://media.discordapp.net/attachments/1212812376148156426/1212931350726713435/image.png?ex=65f3a159&is=65e12c59&hm=b4f99c85f596d4b1b9fc1358a98ae61bbf9973befa8b68024bf591c9bb309a4f&=&format=webp&quality=lossless&width=873&height=671)
 
 *Les variables varient en fonction du type de votre serveur (Minecraft, FiveM, Garry's Mod, Rust, NodeJS, Python, etc.).*

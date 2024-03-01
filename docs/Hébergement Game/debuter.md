@@ -168,6 +168,6 @@ Cette section de l'interface vous offre un accès à un journal détaillé des a
 ![Activity](https://media.discordapp.net/attachments/1212812376148156426/1212916508888399902/image.png?ex=65f39386&is=65e11e86&hm=3cca151517b2389dc77fe7149161fc9feaf36ad9d8a8f7271059dfb83e0af72b&=&format=webp&quality=lossless&width=953&height=671)
 
 ## Conclusion
-Ce guide rapide devrait vous aider à prendre en main votre serveur hébergé sur le panel Pterodactyl par By-Hoster. N'oubliez pas que la communauté est là pour vous aider si vous avez des questions ou rencontrez des problèmes. Vous pouvez également contacter le [support de By-Hoster](https://my.by-hoster.net/contact) pour toute autre question.
+Ce guide rapide devrait vous aider à prendre en main votre serveur hébergé sur le panel By'Game. N'oubliez pas que la communauté est là pour vous aider si vous avez des questions ou rencontrez des problèmes. Vous pouvez également contacter le [support de By-Hoster](https://my.by-hoster.net/contact) pour toute autre question.
 
 Bonne chance et bon jeu !

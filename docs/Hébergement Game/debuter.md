@@ -82,7 +82,7 @@ Suivez les instructions du panel pour configurer et lier une base de données à
 
 ![Database1](https://media.discordapp.net/attachments/1212812376148156426/1212930984409047060/image.png?ex=65f3a101&is=65e12c01&hm=4da11fdc46c4382088f281b79567a3401d3e30a6877e023cdeb904ee9c6ecf5d&=&format=webp&quality=lossless&width=873&height=671)
 
-- Vous devrez fournir des informations telles que le nom de la base de données et le nom d'utilisateur. Ces informations devraient correspondre à celles que vous avez configurées dans votre base de données auparavant. Le mot de passe de l'utilisateur de la base de données est généré automatiquement de façon sécurisée.
+- Vous devrez fournir des informations telles que le nom de la base de données et l'hôte pour s'y connecter. Ces informations devraient correspondre à celles que vous avez configurées dans votre base de données auparavant. Le mot de passe de l'utilisateur de la base de données est généré automatiquement de façon sécurisée.
 
 ![Database2](https://media.discordapp.net/attachments/1212812376148156426/1212931354740920391/image.png?ex=65f3a15a&is=65e12c5a&hm=df09370767aca52078487eb05c0904b49011ceb13c059e63b17ec13b0a39943d&=&format=webp&quality=lossless)
 

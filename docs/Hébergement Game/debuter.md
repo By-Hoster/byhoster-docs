@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Guide de démarrage pour bien utiliser By'Game 🎮
 
-Bienvenue sur votre nouveau serveur de jeu hébergé sur le panel Pterodactyl par By-Hoster. Ce guide vous aidera à démarrer et à vous familiariser avec votre nouvelle interface de gestion.
+Bienvenue sur votre nouveau serveur hébergé sur le panel Pterodactyl par By-Hoster (appelé By'Game). Ce guide vous aidera à démarrer et à vous familiariser avec notre interface de gestion.
 
 ## Commencer avec votre serveur
 

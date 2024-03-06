@@ -79,7 +79,7 @@ export default {
           "title": "Communauté",
           "items": [
             {
-              "label": "Site web",
+              "label": "Site",
               "href": "https://by-hoster.net"
             },
             {
@@ -87,7 +87,7 @@ export default {
               "href": "https://discord.gg/nDPTR4qKTV"
             },
             {
-              "label": "X",
+              "label": "𝕏",
               "href": "https://twitter.com/By_Hoster"
             },
             {

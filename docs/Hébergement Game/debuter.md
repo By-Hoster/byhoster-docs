@@ -21,11 +21,11 @@ Une fois connecté, vous serez accueilli par le tableau de bord affichant vos se
 
 Dans un premier temps, lorsque vous arrivez sur votre panel, vous aurez accès à un tableau de bord comme celui-ci : 
 
-![Dashboard](https://imgur.com/MLBauD9)
+![Dashboard](https://i.imgur.com/MLBauD9.png)
 
 Vous appuyerez sur le serveur concerné auquel vous souhaitez accéder puis vous arriverez sur votre console qui devrait ressembler à cela :
 
-![Console](https://imgur.com/FYpJH5f)
+![Console](https://i.imgur.com/FYpJH5f.png)
 
 Dans cette interface, vous aurez la possibilité de démarrer, redémarrer ou arrêter votre serveur/bot. En cas de nécessité, vous pourrez également le forcer à s'arrêter. De plus, au sein de la même interface, vous aurez accès aux informations les plus importantes concernant votre machine, incluant :
 
@@ -41,11 +41,11 @@ En bref, ce que vous retrouverez dans un gestionnaire de fichiers classique.
 
 Pour des transferts de fichiers plus rapides, vous pouvez également utiliser FileZilla, accessible ici → [https://filezilla-project.org](https://filezilla-project.org). 
 
-![FileZilla](https://imgur.com/E5UnRkI)
+![FileZilla](https://i.imgur.com/E5UnRkI.png)
 
 Pour vous connecter et accéder à votre gestionnaire de fichiers, insérez l'hôte et le nom d'utilisateur que vous retrouverez dans l'onglet "**Paramètres**" du panel : 
 
-![Paramètres](https://imgur.com/C5LjJjQ)
+![Paramètres](https://i.imgur.com/C5LjJjQ.png)
 
 __Exemple :__
 ```
@@ -80,13 +80,13 @@ Suivez les instructions du panel pour configurer et lier une base de données à
   
 - Dans le menu latéral, recherchez l'onglet "Bases de données". Suivez les instructions pour ajouter une nouvelle base de données.
 
-![Database1](https://imgur.com/MtRa3SX)
+![Database1](https://i.imgur.com/MtRa3SX.png)
 
 - Vous devrez fournir des informations telles que le nom de la base de données et l'hôte pour s'y connecter. Ces informations devraient correspondre à celles que vous avez configurées dans votre base de données auparavant. Le mot de passe de l'utilisateur de la base de données est généré automatiquement de façon sécurisée.
 
-![Database2](https://imgur.com/JC1K3QT)
+![Database2](https://i.imgur.com/JC1K3QT.png)
 
-![Database3](https://imgur.com/oZqdqiU)
+![Database3](https://i.imgur.com/oZqdqiU.png)
 
 **3. Configurer le serveur pour utiliser la base de données :**
 
@@ -102,14 +102,14 @@ Les planifications vous permettent de gérer automatiquement des tâches récurr
 
 Les **"planifications"** dans un panel comme le vôtre peuvent être utiles pour la gestion et l'optimisation de votre serveur de jeux. Voici quelques-unes des utilisations principales des planifications sur By'Game pour les serveurs de jeux comme Minecraft, FiveM, Garry's Mod, Rust, etc. :
 
-![Schedules1](https://imgur.com/VDPzpeb)
+![Schedules1](https://i.imgur.com/e0G5YjE.png)
 
-![Schedules2](https://imgur.com/e0G5YjE)
+![Schedules2](https://i.imgur.com/VDPzpeb.png)
 
 ### Sous-utilisateurs (Subusers)
 Si vous travaillez en équipe sur le développement de votre serveur, vous pouvez créer des sous-utilisateurs avec des permissions spécifiques. Cela se fait via la catégorie "Utilisateurs" du panel.
 Pour cela, cliquez sur le bouton "Nouvel utilisateur", un formulaire devrait s'ouvrir :   
-![Subusers](https://imgur.com/PlZkXko)
+![Subusers](https://i.imgur.com/PlZkXko.png)
 
 **USER EMAIL** = l'email du compte sous-utilisateur
 > Si le compte est déjà existant sur By'Game, l'utilisateur aura directement accès à votre serveur. Sinon, un e-mail lui sera envoyé pour configurer son nouveau compte.
@@ -127,9 +127,9 @@ Les sauvegardes sont essentielles pour protéger les données de votre serveur c
 
 - **Prévention de la perte de contenu personnalisé :** Si vous utilisez des mods, des plugins ou d'autres contenus personnalisés sur votre serveur de jeu, les sauvegardes garantissent que ces ajouts ne seront pas perdus en cas de problème. Vous pouvez restaurer une sauvegarde précédente pour récupérer tout contenu qui aurait été supprimé ou endommagé.
 
-![Backups1](https://imgur.com/UpeLIO9)
+![Backups1](https://i.imgur.com/UpeLIO9.png)
 
-![Backups2](https://imgur.com/undefined)
+![Backups2](https://i.imgur.com/q5n2PWm.png)
 
 ### Réseau (Network)
 
@@ -137,14 +137,14 @@ La section "Réseau" permet de gérer, de créer, et de supprimer des allocation
 Cela est nécessaire pour par exemple certains plugins sur Minecraft tel que DynMap qui nécessite un différent port que celui primaire.
 
 __Exemple :__   
-![Allocations](https://imgur.com/p4XTIHL)
+![Allocations](https://i.imgur.com/p4XTIHL.png)
 
 
 ### Démarrage (Startup)
 La section "Démarrage" vous permet de configurer la manière dont votre serveur démarre, incluant par exemple le choix de la map (carte), la version du jeu, et d'autres paramètres importants.
 
 __Exemple :__   
-![Startup](https://imgur.com/undefined)
+![Startup](https://i.imgur.com/A4ernm8.png)
 
 *Les variables varient en fonction du type de votre serveur (Minecraft, FiveM, Garry's Mod, Rust, NodeJS, Python, etc.).*
 
@@ -158,14 +158,14 @@ Cette section est assez simple, il y a 4 sous-sections différentes qui ont des 
 3. **Informations de Debug :** Nous disposons ici d'informations d'identification telles que le nom du nœud et également connaître l'ID du serveur afin que le support puisse rapidement identifier le serveur concerné en cas d'assistance.
 4. **Réinstallation du serveur :** Si vous souhaitez vérifier le serveur parce que vous doutez qu'il manque un fichier de base, vous pouvez effectuer cette vérification en appuyant sur le bouton. Cependant, si vous souhaitez procéder à une réinstallation complète du serveur et le remettre à zéro, vous devez dans un premier temps effectuer une suppression totale de tous vos fichiers et, une fois cela fait, appuyer sur le bouton de réinstallation.
 
-![Settings](https://imgur.com/undefined)
+![Settings](https://i.imgur.com/CrFay44.png)
 
 ### Activité (Logs)
 La section "Activité" fournit un historique complet des actions effectuées sur le panel, vous permettant de suivre qui a fait quoi et quand.
 
 Cette section de l'interface vous offre un accès à un journal détaillé des activités réalisées sur le panel, précisant qui a effectué quelle action et quand. Elle vous permet de vérifier si vous ou un sous-utilisateur avez apporté des modifications à un fichier (et lequel en particulier), redémarré le serveur, entre autres actions.
 
-![Activity](https://imgur.com/undefined)
+![Activity](https://i.imgur.com/QMDExH3.png)
 
 ## Conclusion
 Ce guide rapide devrait vous aider à prendre en main votre serveur hébergé sur le panel By'Game. N'oubliez pas que la communauté est là pour vous aider si vous avez des questions ou rencontrez des problèmes. Vous pouvez également contacter le [support de By-Hoster](https://my.by-hoster.net/contact) pour toute autre question.

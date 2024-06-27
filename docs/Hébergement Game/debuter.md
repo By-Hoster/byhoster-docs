@@ -12,7 +12,7 @@ Bienvenue sur votre nouveau serveur hébergé sur le panel Pterodactyl par By-Ho
 Si vous n'avez pas encore de serveur ou de bot et cherchez une option abordable et fiable, choisissez By-Hoster. Nous offrons une variété de serveurs (Minecraft, FiveM, Garry's Mod, Rust, etc.) et de bots Discord (Node.js et Python) disponibles à l'achat sur notre boutique en ligne : [https://my.by-hoster.net/store/jeux](https://my.by-hoster.net/store/jeux).
 
 ### Connexion au panel
-Accédez à votre espace client sur le panel Pterodactyl via [https://ptero.by-hoster.net](https://ptero.by-hoster.net) en utilisant les identifiants envoyés par e-mail lors de l'achat ou de la création de votre compte.
+Accédez à votre espace client sur le panel Pterodactyl via [https://game.by-hoster.net](https://game.by-hoster.net) en utilisant les identifiants envoyés par e-mail lors de l'achat ou de la création de votre compte.
 
 ## Navigation sur le panel
 
@@ -70,7 +70,7 @@ Une base de données est extrêmement utile pour un serveur de jeux comme Minecr
 
 Suivez les instructions du panel pour configurer et lier une base de données à votre serveur, ce qui implique la configuration du serveur pour utiliser la base de données et le test de la connexion.
 
-*Vous pouvez gérer facilement les tables de votre base de données via phpMyAdmin : [https://ptero.by-hoster.net/pma](https://ptero.by-hoster.net/pma)*
+*Vous pouvez gérer facilement les tables de votre base de données via phpMyAdmin : [https://game.by-hoster.net/pma](https://game.by-hoster.net/pma)*
 
 **1. Configurer la base de données (database) :**
   

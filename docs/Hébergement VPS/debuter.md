@@ -10,7 +10,7 @@ Bienvenue sur votre nouveau VPS (Virtual Private Server) ! Ce guide vous aidera 
 
 ### Obtenir un VPS
 Vous n'avez pas encore de VPS ? Vous souhaitez en obtenir un de qualité à moindre coûts ?
-Choisissez By-Hoster ! Nous proposons des offres VPS disponibles sur notre boutique : https://my.by-hoster.net/store/vps
+Choisissez By-Hoster ! Nous proposons des offres VPS disponibles sur notre boutique : https://client.by-hoster.net/store/vps
 
 ### Connexion SSH
 

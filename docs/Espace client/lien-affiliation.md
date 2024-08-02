@@ -7,6 +7,12 @@ sidebar_position: 1
 ## À quoi sert le lien d'affiliation By-Hoster ?
 Un lien d'affiliation (ou lien de parrainage) permet à n'importe quel utilisateur de compte de créer un lien et de le partager avec d'autres personnes. Si ces personnes commandent un service chez By-Hoster, créent un compte, ou simplement cliquent sur votre lien, vous pourrez gagner de l'argent (sous forme de crédit By-Hoster) ou retirer vos gains en argent réel à partir d'un montant minimal de retrait.
 
+:::info
+
+En raison de la mise en place du nouvel espace client, le système de parrainage est temporairement indisponible. Il sera bientôt réactivé après redéveloppement.
+
+:::
+
 ## Les chiffres
 - Montant minimum de retrait : **15,00 €**
 - Gain sur chaque commande : **5 %**
@@ -14,7 +20,7 @@ Un lien d'affiliation (ou lien de parrainage) permet à n'importe quel utilisate
 Le lien d'affiliation ressemble à : `https://my.by-hoster.net/aff/xxxxxxxxxxxxxxxx`.
 
 ## Comment en créer un ?
-1) Rendez-vous sur [l'espace client By-Hoster](https://my.by-hoster.net/client) et connectez-vous à votre compte, ou inscrivez-vous
+1) Rendez-vous sur [l'espace client By-Hoster](https://client.by-hoster.net/client) et connectez-vous à votre compte, ou inscrivez-vous
 2) Dans le menu de gauche, cliquez sur l'onglet "**AFFILIATION**" ou [cliquez ici](https://my.by-hoster.net/client/affiliate) :   
    ![Espace client - Menu affiliation](https://github.com/By-Hoster/byhoster-docs/assets/69022745/3d06b329-685d-4c3a-b74a-a580deeb6653)
 

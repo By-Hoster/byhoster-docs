@@ -38,7 +38,7 @@ La première fois que vous vous connectez à votre VPS, vous recevrez un message
 
 #### 4. Saisir le mot de passe
 
-Ensuite, vous devrez entrer le mot de passe de l'utilisateur. Tapez-le (même si les caractères ne s'affichent pas à l'écran) et appuyez sur **Entrée**.
+Ensuite, vous devrez entrer le mot de passe de l'utilisateur que vous avez défini lors de la commande. Tapez-le (même si les caractères ne s'affichent pas à l'écran) et appuyez sur la touche clavier **Entrée**.
 
 Vous voilà connecté à votre VPS !
 

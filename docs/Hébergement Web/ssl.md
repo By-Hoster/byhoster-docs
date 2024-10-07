@@ -12,7 +12,7 @@ Sur ByWeb, vous pouvez générer un certificat __Let's Encrypt__ en un clic grat
 
 Voici comment procéder étape par étape :
     - Rendez vous sur l'interface de la gestion de votre site sur [ByWeb](https://web.byh.fr)
-    - Dans la catégorie "**Sécurité**", cliquez sur le bouton "**Certificats SLL/TLS**"
+    - Dans la catégorie "**Sécurité**", cliquez sur le bouton "**Certificats SSL/TLS**"
     ![Aperçu Panel ByWeb | Interface - SSL](https://github.com/By-Hoster/byhoster-docs/assets/69022745/d2dcc854-22d7-4897-9a2c-641c605d310c)
     - Assurez vous d'avoir bien configuré votre nom de domaine (redirection DNS), si ce n'est pas fait, veuillez regarder notre tutoriel : [**Bien héberger son site web**](./debuter.md)
     - Une fois sur cette page, cliquez sur "**Installer**" dans la première option pour générer un certificat SSL fourni gratuitement par __Let's Encrypt__
